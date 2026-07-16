@@ -1,2 +1,2 @@
 # tech-fit
-sistema academia de banco de dados modelado em sql serve
+sistema de gerenciamento para academias de banco de dados modelado em sql serve
